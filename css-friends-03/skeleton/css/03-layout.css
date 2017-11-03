@@ -1,0 +1,10 @@
+/* PHASE 3: Layout */
+.content {
+  background-color: white;
+  min-height: 200px;
+  min-width: 50px;
+  border: solid black 1px;
+}
+.content-sidebar {
+  border-right: solid black 1px;
+}
